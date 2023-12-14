@@ -34,6 +34,9 @@ Para contribuir com o projeto, entre em contato com os membros da equipe atravé
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![DJANGO](https://img.shields.io/badge/Django-339933?style=for-the-badge&logo=django&logoColor=white)
+
+<!-- ![TECNOLOGIA](https://img.shields.io/badge/Tecnologia-cor_hexa?style=for-the-badge&logo=tecnologia&logoColor=white) -->
 
 <p align="left">
   💌 Sinta-se a vontade para entrar em contato: ⤵️
