@@ -19,8 +19,9 @@ Bem-vindo ao repositório do DATI, parte integrante do Departamento de Auditoria
 
 
 ## Contribuições
+<p align='justify'>
 Para contribuir com o projeto, entre em contato com os membros da equipe através dos links fornecidos. Sua participação é fundamental para o contínuo aperfeiçoamento dos nossos serviços e para a promoção da transparência na administração pública municipal.
-
+</p>
 
 <h2 align="left">
 👻 Tecnologias:
