@@ -3,7 +3,9 @@
 
 
 ### Sobre
+<p align='justify'>
 Bem-vindo ao repositório do DATI, parte integrante do Departamento de Auditoria (DEA) na Controladoria Geral do Município (CGM). O DATI é especializado em auditoria e fiscalização de tecnologia da informação na administração pública municipal. Nossa missão é assegurar a legalidade, eficiência e eficácia na gestão e execução de programas governamentais relacionados à TI. Utilizamos ferramentas avançadas de Business Intelligence, como Python e Power BI, e temos competência em desenvolvimento web com NestJS, JavaScript, TypeScript, HTML e CSS. O DATI trabalha em parceria com o Departamento de Acompanhamento de Gestão e Transparência (DGT) e a Divisão de Observatório da Despesa (DODP), fortalecendo a integridade e a transparência na gestão municipal.
+</p>
 
 ## Equipe DATI <a href="https://github.com/DATI-CGM-PVH" title="Github" target="_blank"><img src="https://img.shields.io/badge/Github-E34F26?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 - **Jhonatan Carvalho - Gerente**  <a href="https://github.com/jhonatanCarvalh0" title="Github" target="_blank"><img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a> <a href="https://www.linkedin.com/in/jhonatancarvalh0/" title="LinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
